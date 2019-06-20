@@ -3,7 +3,7 @@ import (
 	"fmt"
 )
 const (
-	version=0
+	version=1
 )
 
 func Version(){
